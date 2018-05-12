@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35693'
     url: http://www.gutenberg.org/2009/agents/35693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32158#Rural-Wealth-and-Welfare--Economic-Principles-Illustrated-and-Applied-in-Farm-Life
 gutenberg_issued: '2010-04-28'
 gutenberg_type: Text
 identifiers:
